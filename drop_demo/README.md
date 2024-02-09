@@ -29,7 +29,7 @@ python main.py
 ```
 
 ## 项目演示
-"https://github.com/shliar/WRAN_net/edit/main/drop_demo/ce8b7ec18302faf60a1cb4be1f0f7ea6.mp4"
+https://github.com/shliar/WRAN_net/edit/main/drop_demo/ce8b7ec18302faf60a1cb4be1f0f7ea6.mp4
 
 https://github.com/shliar/WRAN_net/edit/main/drop_demo/30e8eb4deee17e64befc3c44a807eb7c.mp4
 

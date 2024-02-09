@@ -29,26 +29,10 @@ python main.py
 ```
 
 ## 项目演示
+"https://github.com/shliar/WRAN_net/edit/main/drop_demo/ce8b7ec18302faf60a1cb4be1f0f7ea6.mp4"
 
-<!-- 这是一个简单的HTML视频标签 -->
-<video width="560" height="315" controls>
-  <source src="your-video-url.mp4" type="video/mp4">
-  <!-- 浏览器不支持MP4视频时，这将显示 -->
-  <p>你的浏览器不支持MP4视频。</p>
-</video>
+https://github.com/shliar/WRAN_net/edit/main/drop_demo/30e8eb4deee17e64befc3c44a807eb7c.mp4
 
-<!-- 这是一个简单的HTML视频标签 -->
-<video width="560" height="315" controls>
-  <source src="your-video-url.mp4" type="video/mp4">
-  <!-- 浏览器不支持MP4视频时，这将显示 -->
-  <p>你的浏览器不支持MP4视频。</p>
-</video>
-
-## 项目效果
-
-![image](https://user-images.githubusercontent.com/10908454/183591092-29838653-415c-4f34-8051-f64251240380.png)
-![image](https://user-images.githubusercontent.com/10908454/183591111-35204274-5480-4984-853c-88929062919.png)
-![image](https://user-images.githubusercontent.com/10908454/183591133-5156335a-9365-481b-8286-72359814057.png)
 ## 项目说明
 
 该项目基于SAM的深度学习模型，实现对货物掉落进行检测。
@@ -66,12 +50,6 @@ python main.py
 - 准确度高
 - 易扩展
 -  易维护
-
-## 项目不足
-
-- 需要预先安装SAM的深度学习模型
-- 需要预先安装SAM的深度学习模型
-- 需要预先安装SAM的深度学习模型
 
 ## 项目展望
 
@@ -98,5 +76,3 @@ python main.py
 ## 项目参考
 
 - [SAM](https://github.com/NVlabs/SAM)
-- [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
-- [YOLOv5](https://github.com/ultralytics/yolov5)
